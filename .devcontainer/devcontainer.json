@@ -1,0 +1,5 @@
+{
+  "name": "Waypipe Cloud Box",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y waypipe foot thunar xfce4-terminal tmux htop ripgrep build-essential",
+  "remoteUser": "vscode"
+}
